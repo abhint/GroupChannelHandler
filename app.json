@@ -1,6 +1,6 @@
 {
-  "name": "Telegram URL Upload",
-  "description": "Hello, Heroku",
+  "name": "Group Channel Handler",
+  "description": "This is a telegram boat. It does not allow channels to send messages to the telegram supergroup.",
   "repository": "https://github.com/AbhijithNT/ChannelMessageHandler/",
   "keywords": ["telegram", "pyTelegramBotAPI", "telegram-bot"],
   "env": {
