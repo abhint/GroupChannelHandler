@@ -4,7 +4,7 @@
 
 - **Installation**
 ```shell
-$ git clone https://github.com/AbhijithNT/ChannelMessageHandler.git
+$ git clone https://github.com/AbhijithNT/GroupChannelHandler.git
 ```
 - **Change directory**
 ```shell
@@ -38,16 +38,16 @@ $ python bot.py
   
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/AbhijithNT/ChannelMessageHandler/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/AbhijithNT/GroupChannelHandler/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
   
 ## Authors
 - **[Abhijith N T](https://github.com/AbhijithNT)** - _Initial work_
 
-See also the list of [contributors](https://github.com/AbhijithNT/ChannelMessageHandler/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/AbhijithNT/GroupChannelHandler/contributors) who participated in this project.
 
 ## Telegram Channel
 Join the [News channel](https://telegram.me/AbhijithNT). Here we will post releases and updates.
 
 ## License
 
-The ChannelMessageHandler is licensed under the [MIT](https://github.com/AbhijithNT/ChannelMessageHandler/blob/main/LICENSE) license.
+The GroupChannelHandler is licensed under the [MIT](https://github.com/AbhijithNT/GroupChannelHandler/blob/main/LICENSE) license.
