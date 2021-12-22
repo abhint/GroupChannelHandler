@@ -1,0 +1,17 @@
+{
+  "name": "Telegram URL Upload",
+  "description": "Hello, Heroku",
+  "repository": "https://github.com/AbhijithNT/ChannelMessageHandler/",
+  "keywords": ["telegram", "pyTelegramBotAPI", "telegram-bot"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Bot token from @Botfather",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
