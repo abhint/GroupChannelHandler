@@ -50,4 +50,4 @@ Join the [News channel](https://telegram.me/AbhijithNT). Here we will post relea
 
 ## License
 
-The Telegram-URL-Upload is licensed under the [MIT](https://github.com/AbhijithNT/ChannelMessageHandler/blob/main/LICENSE) license.
+The ChannelMessageHandler is licensed under the [MIT](https://github.com/AbhijithNT/ChannelMessageHandler/blob/main/LICENSE) license.
