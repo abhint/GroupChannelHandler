@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](https://github.com/AbhijithNT/ChannelMessageHandle
 ## Authors
 - **[Abhijith N T](https://github.com/AbhijithNT)** - _Initial work_
 
-See also the list of [contributors](https://github.com/AbhijithNT/Telegram-URL-Upload/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/AbhijithNT/ChannelMessageHandler/contributors) who participated in this project.
 
 ## Telegram Channel
 Join the [News channel](https://telegram.me/AbhijithNT). Here we will post releases and updates.
