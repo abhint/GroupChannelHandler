@@ -26,8 +26,7 @@ $ python bot.py
 ```
  - **Require environment variables**
 > Follow the links
-1. `API_ID` and `API_HASH` [Telegram API](https://my.telegram.org/)
-2. `BOT_TOKEN` [BotFather](https://telegram.me/BotFather)
+1. `BOT_TOKEN` [BotFather](https://telegram.me/BotFather)
 
 ## Heroku Deploy
 
